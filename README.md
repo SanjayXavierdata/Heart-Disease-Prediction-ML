@@ -115,5 +115,3 @@ These files allow future predictions without retraining the model.
 ---
 
 Aspiring Data Analyst | Machine Learning Enthusiast
-
-If you found this project useful, feel free to ⭐ the repository.
